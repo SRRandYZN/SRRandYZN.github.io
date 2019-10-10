@@ -1828,7 +1828,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb111;
+  background: #1dff4a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3043,7 +3043,7 @@ body {
 .sidebar p,
 .sidebar span,
 .sidebar a {
-  color: #000;
+  color: rgba(0,0,0,0.8);
 }
 .content {
   border-radius: 20px;
